@@ -1,5 +1,5 @@
 ---
-name: Cluster Upgrade tests - workflow
+name: Cluster Upgrade tests - workflow test
 
 on:
   workflow_call:
